@@ -57,6 +57,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medgougriz&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=medgougriz&show_icons=true&theme=transparent)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=medgougriz&theme=tokyonight)
 ![Snake animation](https://github.com/medgougriz/medgougriz/blob/output/github-contribution-grid-snake.svg)
