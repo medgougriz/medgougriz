@@ -58,9 +58,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://raw.githubusercontent.com/medgougriz/medgougriz-stats/main/stats-card.svg)
+[![GitHub Stats](https://medgougriz-stats.vercel.app/api?username=medgougriz&show_icons=true&theme=radical)](https://github.com/medgougriz)
 
-![Top Languages](https://raw.githubusercontent.com/medgougriz/medgougriz-stats/main/top-langs-card.svg)
+[![Top Languages](https://medgougriz-stats.vercel.app/api/top-langs/?username=medgougriz&layout=compact&langs_count=8&theme=radical)](https://github.com/medgougriz)
 
 <!-- Snake Animation -->
 ![Snake animation](https://github.com/medgougriz/medgougriz/blob/output/github-contribution-grid-snake.svg)
