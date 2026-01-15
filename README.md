@@ -57,10 +57,9 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- GitHub Stats Card -->
+
 ![GitHub Stats](https://raw.githubusercontent.com/medgougriz/github-stats-design/main/stats-card.svg)
 
-<!-- Top Languages Card -->
 ![Top Languages](https://raw.githubusercontent.com/medgougriz/github-stats-design/main/top-langs-card.svg)
 
 <!-- Snake Animation -->
