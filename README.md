@@ -68,4 +68,6 @@
 </p>
 
 <!-- Snake Animation -->
-![Snake animation](https://github.com/medgougriz/medgougriz/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/medgougriz/medgougriz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
