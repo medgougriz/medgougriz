@@ -58,9 +58,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://raw.githubusercontent.com/medgougriz/github-stats-design/main/stats-card.svg)
+![GitHub Stats](https://raw.githubusercontent.com/medgougriz/medgougriz-stats/main/stats-card.svg)
 
-![Top Languages](https://raw.githubusercontent.com/medgougriz/github-stats-design/main/top-langs-card.svg)
+![Top Languages](https://raw.githubusercontent.com/medgougriz/medgougriz-stats/main/top-langs-card.svg)
 
 <!-- Snake Animation -->
 ![Snake animation](https://github.com/medgougriz/medgougriz/blob/output/github-contribution-grid-snake.svg)
